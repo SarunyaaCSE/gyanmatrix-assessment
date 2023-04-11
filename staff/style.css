@@ -1,0 +1,54 @@
+body{
+    background-image: url(images/bg.svg);
+}
+.options{
+    position: absolute;
+    width: 447px;
+    height: 83px;
+    left: 958px;
+    top: 37px;
+}
+.staff1{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 136px;
+}
+.staff2{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 539px;
+top: 136px;
+
+}
+.staff3{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 995px;
+top: 136px;
+}
+.staff4{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 534px;
+}
+.staff5{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 539px;
+top: 534px;
+}
+.staff6{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 995px;
+top: 534px;
+
+}
