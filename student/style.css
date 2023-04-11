@@ -1,0 +1,54 @@
+body{
+    background-image: url(images/bg.svg);
+}
+.options{
+    position: absolute;
+    width: 447px;
+    height: 83px;
+    left: 958px;
+    top: 37px;
+}
+.student1{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 136px;
+}
+.student2{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 539px;
+top: 136px;
+
+}
+.student3{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 995px;
+top: 136px;
+}
+.student4{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 534px;
+}
+.student5{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 539px;
+top: 534px;
+}
+.student6{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 995px;
+top: 534px;
+
+}
